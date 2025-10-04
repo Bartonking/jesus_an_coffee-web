@@ -55,7 +55,7 @@ function App() {
           </p>
           <p className="text-xl md:text-2xl text-white leading-relaxed max-w-3xl mx-auto drop-shadow-md">
             Join a community where meaningful conversations happen over great coffee,
-            and lasting friendships are built on shared faith. <span className="font-semibold text-amber-200">Strength in Numbers.</span>
+            and lasting friendships are built on shared faith <span className="font-semibold text-amber-200">Strength in Numbers.</span>
           </p>
           <div className="pt-8">
             <button
